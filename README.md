@@ -61,11 +61,6 @@ module "sns" {
 |------|---------|
 | aws | >= 2.0 |
 
-## Modules
-
-| Name | Source | Version |
-|------|--------|---------|
-| this | cloudposse/label/null | 0.24.1 |
 
 ## Resources
 
